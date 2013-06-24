@@ -49,6 +49,10 @@ modules.builtin
 #
 !.gitignore
 !.mailmap
+firmware/sd8686.bin
+firmware/sd8686_helper.bin
+firmware/rtlwifi/rtl8192cufw.bin
+firmware/rt73.bin
 
 #
 # Generated include files
