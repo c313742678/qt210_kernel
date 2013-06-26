@@ -1,0 +1,10 @@
+
+menuconfig CHRIS
+	bool "Chris drivers"
+	default y
+	help
+	 the switch of chris drivers
+
+if CHRIS
+	source drivers/chris/led/Kconfig
+endif

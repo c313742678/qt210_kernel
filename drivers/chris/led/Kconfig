@@ -1,0 +1,6 @@
+
+config CHRIS_LEDS
+	tristate "Chris_leds"
+	default m
+	help
+	  a simple gpio leds driver
